@@ -1,0 +1,14 @@
+body{
+	background-color: lightpink;
+}
+p{
+	font-size: 50px;
+	color: lime;
+}
+.p1{
+	background-color:orange ;
+	text-align: center;
+}
+.p2{
+	font-family: 'Pixelify Sans', cursive;
+}

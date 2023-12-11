@@ -1,0 +1,24 @@
+body {
+	background-color: lightsalmon;
+}
+p {
+	color: lightblue;
+	background-color: darkviolet;
+	font-size: 50px;
+}
+div {
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+}
+.d1 {
+	animation-name: example1;
+	animation-duration: 5s;
+}
+@keyframes example1{
+	from{background-color: yellow;}
+	to{background-color: blue;}
+}
+
+
+
